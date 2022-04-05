@@ -1,3 +1,4 @@
 # ITCrunch
-Repositorio para el proyecto de Sistemas de Información para Internet desarrollado por el renombrado grupo IT Crunch
+En este repositorio se encuentran los archivos generados tras ejecutar las instrucciones maven sobre
+el arquetipo dado originalmente.
  
